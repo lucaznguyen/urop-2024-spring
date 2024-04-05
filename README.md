@@ -17,7 +17,7 @@ git clone https://github.com/lucaznguyen/urop-2024-spring.git
 cd urop-2024-spring
 ```
 
-### Run the Web UI
+### Implementation
 
 Simply run the jupyter notebook files to enjoy the Machine Learning approaches.
 
