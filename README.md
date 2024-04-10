@@ -2,8 +2,8 @@
 This is a repo containing Machine Learning exercises for students in the UROP program of VinUniversity, Vietnam.
 
 **New Features/Updates**
-- April 5th, 2023: Add Linear Regression, Gradient Descent, Logistic Regression and Softmax Regression exercises.
-- April 10th, 2023: Add Convolutional Neural Network, Federated Learning exercises.
+- April 5th, 2024: Add Linear Regression, Gradient Descent, Logistic Regression and Softmax Regression exercises.
+- April 10th, 2024: Add Convolutional Neural Network, Federated Learning exercises.
 
 If this repo helps your research or work, please help me to ⭐ this repo. Thank you so much.
 
