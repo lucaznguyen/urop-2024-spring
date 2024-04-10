@@ -3,6 +3,7 @@ This is a repo containing Machine Learning exercises for students in the UROP pr
 
 **New Features/Updates**
 - April 5th, 2023: Add Linear Regression, Gradient Descent, Logistic Regression and Softmax Regression exercises.
+- April 10th, 2023: Add Convolutional Neural Network, Federated Learning exercises.
 
 If this repo helps your research or work, please help me to ⭐ this repo. Thank you so much.
 
@@ -30,6 +31,9 @@ Simply run the jupyter notebook files to enjoy the Machine Learning approaches.
   - [ ] Package 02: Decision Tree, SVM, Naive-Bayes Classifier.
   - [ ] Package 03: Unsupervised learning.
 - [ ] Add Deep Learning approaches.
+  - [x] Package 01: Convolutional Neural Network, Simple Federated Learning Framework.
+  - [ ] Package 02: AlexNet, ResNet, MobileNet.
+  - [ ] Package 03: Attention, Transformer.
 
 ---
 
